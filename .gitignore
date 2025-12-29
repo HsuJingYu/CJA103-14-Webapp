@@ -75,8 +75,3 @@ Thumbs.db
 /test-output/
 /surefire-reports/
 /jacoco.exec
-
-##############################
-# Hibernate系統組態檔
-##############################
-src/main/resourses/hibernate.cfg.xml
